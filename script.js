@@ -26,7 +26,7 @@ const ball = {
 const paddle = {
   x: canvas.width / 2 - 40,
   y: canvas.height/2 ,
-  w: 800,
+  w: 400,
   h: 10,
   speed:  15,
   dx: 0,
